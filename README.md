@@ -24,4 +24,6 @@ O projeto foi estruturado para testar e reforçar conhecimentos em:
 ## 🤝 Contribuindo
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias e sugestões.
 
+---
+
 Projeto desenvolvido como parte do aprendizado no curso de Java da [Alura](https://www.alura.com.br). 🚀
