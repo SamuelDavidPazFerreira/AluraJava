@@ -21,7 +21,7 @@ public class DesafioAluraJava {
             System.out.println("Login com sucesso!");
 
             int operacao = 0;
-            for (int i = 0; operacao != 4; i++) {
+            while (operacao != 4) {
                 System.out.println("Operações: ");
 
                 System.out.println("1 - Consultar saldo");
@@ -40,8 +40,7 @@ public class DesafioAluraJava {
 
                     saldo += valorRecebido;
 
-                    System.out.println("Seu saldo agora: ");
-                    System.out.println(saldo);
+                    System.out.println("Seu saldo agora: " + saldo);
                 }
                 else if (operacao == 3){
                     System.out.println("Digite o valor que deseja transferir: ");
