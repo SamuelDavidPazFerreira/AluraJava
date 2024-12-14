@@ -5,7 +5,7 @@ public class DesafioAluraJava {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        double saldo = 2500.00;
+        double saldo = 900.00;
 
         System.out.println("**************************");
         System.out.println("Dados Iniciais do Cliente Itaú");
